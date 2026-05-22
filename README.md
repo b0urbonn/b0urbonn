@@ -1,6 +1,11 @@
 # Hi there, I'm Dale (b0urbonn) 👋
 
-Welcome to my GitHub profile! I am a passionate developer focused on building high-performance, elegant, and secure applications.
+I am a **University IT Lecturer, Cybersecurity Professional, and AI Solutions Developer** based in the Philippines. I specialize in full-stack mobile applications, local-first architectures, network security, and AI integrations.
+
+### 🏆 Competitive Highlights
+* **DICT CyberRange 2025** – Vanguard Award Winner
+* **HackTheBox University CTF 2025** – Top 95 Worldwide | Top 1 in the Philippines
+* **Master of Information Technology (CAR)** & Certified Cybersecurity Practitioner
 
 ---
 
@@ -16,4 +21,5 @@ Welcome to my GitHub profile! I am a passionate developer focused on building hi
 <p align="center">
   <i>"Code is poetry in motion. Write it clean, make it beautiful, keep it secure." ⚡</i>
 </p>
+
 
