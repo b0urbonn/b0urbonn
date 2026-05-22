@@ -117,16 +117,6 @@ These are the primary applications and systems I have architected and built from
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## 🌟 Technical Interests & Explorations
-
-Beyond my original projects, I actively study and follow key open-source communities. My forks reflect my research and interests in these areas:
-
-* 🔌 **Low-Level Porting & Windows on ARM:** Installing desktop environments (Windows 11, Linux) on mobile tablets like Xiaomi Pad 5. Includes browser-based Fastboot installers (`nabu`), playbooks (`modified-playbooks`), recovery ROM extractors (`Auto-Installer-Forge`), and ISO downloaders (`woawin`).
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
 ## 📈 My GitHub Analytics
 
 <p align="center">
