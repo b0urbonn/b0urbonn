@@ -46,7 +46,6 @@ These are the primary applications and systems I have architected and built from
 * 🎓 **[SIMS](https://github.com/b0urbonn/SIMS)**: A secure Student Information Management System handling student records, terms, and administrative directories.
 * ⛓️ **[certichain](https://github.com/b0urbonn/certichain)**: A cryptography-driven verification ledger built to authenticate academic certifications and prevent diploma forgery.
 * 🚩 **[cics-ctf](https://github.com/b0urbonn/cics-ctf)**: A custom cybersecurity training environment featuring Capture The Flag (CTF) challenges across cryptography, web hacking, and analysis.
-* 🛡️ **[Capstone-MIT-SmartGuard](https://github.com/b0urbonn/Capstone-Project-MIT-SmartGuard-Prototype-1)**: An industrial capstone IoT telemetry system monitoring hardware statuses via real-time sensors.
 
 ---
 
