@@ -71,44 +71,16 @@ These are the primary applications and systems I have architected and built from
 <table width="100%">
   <tr>
     <td>
-      <h3>📚 <a href="https://github.com/b0urbonn/StudyTrack">StudyTrack</a></h3>
-      <img src="https://img.shields.io/badge/Status-🌟_Flagship-f7768e?style=flat-square" />
-      <p>A premium, local-first React Native planning ecosystem integrated with an on-device Gemini AI co-pilot, featuring conflict-detection schedulers, swipeable task managers, markdown notebooks, digital ID wallets, and custom Pomodoro timers.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <h3>⚙️ <a href="https://github.com/b0urbonn/won-deployer-setup-app">won-deployer-setup-app</a></h3>
       <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
-      <p>An automated helper app for Xiaomi Pad 5 (nabu) devices to deploy custom UEFI boot packages, WOA setup systems, and Magisk root configurations.</p>
+      <p>An automated helper application built for Xiaomi Pad 5 (nabu) devices to deploy custom UEFI boot packages, Windows on ARM setup systems, and Magisk root configurations.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🔄 <a href="https://github.com/b0urbonn/internsync">internsync</a></h3>
+      <h3>👀 <a href="https://github.com/b0urbonn/sneakpeak-preview">sneakpeak-preview</a></h3>
       <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
-      <p>A specialized platform for university engineering students to log internship hours, catalog milestones, and sync daily reports.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🎓 <a href="https://github.com/b0urbonn/SIMS">SIMS</a></h3>
-      <img src="https://img.shields.io/badge/Status-🟡_Maintenance-e0af68?style=flat-square" />
-      <p>A secure Student Information Management System handling student records, terms, and administrative directories.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>⛓️ <a href="https://github.com/b0urbonn/certichain">certichain</a></h3>
-      <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
-      <p>A cryptography-driven verification ledger built to authenticate academic certifications and prevent diploma forgery.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🚩 <a href="https://github.com/b0urbonn/cics-ctf">cics-ctf</a></h3>
-      <img src="https://img.shields.io/badge/Status-🟡_Maintenance-e0af68?style=flat-square" />
-      <p>A custom cybersecurity training environment featuring Capture The Flag (CTF) challenges across cryptography, web hacking, and analysis.</p>
+      <p>A lightweight, front-end sneakpeek preview layout manager built to orchestrate and test UI animations and clean components.</p>
     </td>
   </tr>
 </table>
