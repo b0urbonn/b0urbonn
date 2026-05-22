@@ -1,25 +1,36 @@
 # Hi there, I'm Dale (b0urbonn) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=b0urbonn&subtitle=Mobile%20Developer%20%7C%20AI%20Solutions%20Builder%20%7C%20Systems%20Modder&fontSize=40&subFontSize=18&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=b0urbonn&subtitle=Full-Stack%20Mobile%20Engineer%20%7C%20AI%20Solutions%20Builder%20%7C%20Systems%20Modder&fontSize=38&subFontSize=16&fontAlignY=40&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/b0urbonn?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=b0urbonn&color=9ece6a&style=for-the-badge&label=VIEWS" />
+  <img src="https://img.shields.io/github/stars/b0urbonn?label=STARS&style=for-the-badge&color=f7768e&labelColor=1a1b26" />
 </p>
 
 <p align="center">
   <a href="https://github.com/b0urbonn">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
+  </a>
+  <a href="https://github.com/b0urbonn">
+    <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
 ## 🚀 About Me
 
@@ -27,27 +38,84 @@ I am a **Mobile & Systems Software Engineer** specializing in full-stack applica
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Matrix
 
-- **Frontend & Mobile:** React Native, Expo, TypeScript, JavaScript (ES6+), Tailwind CSS
-- **State & Local Storage:** Zustand, Encrypted AsyncStorage, React Context
-- **AI & Language Models:** Google Gemini 2.5 Flash API, on-device regex-based quick command parsers
-- **Development & Deploy:** Git, GitHub Actions, EAS Build CLI, Android SDK, Xcode
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Frontend & Mobile</h4>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ State, AI & Storage</h4>
+      <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Async_Storage-3700B3?style=flat-square&logo=android&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
 ## 🛠️ Built By Me (Core Original Projects)
 
 These are the primary applications and systems I have architected and built from scratch:
 
-* 📚 **[StudyTrack](https://github.com/b0urbonn/StudyTrack)** *(Private Flagship Mobile App)*: A premium, local-first React Native planning ecosystem integrated with an on-device Gemini AI co-pilot, featuring conflict-detection schedulers, swipeable task managers, markdown notebooks, digital ID wallets, and custom Pomodoro timers.
-* ⚙️ **[won-deployer-setup-app](https://github.com/b0urbonn/won-deployer-setup-app)** *(Public Modding Utility)*: An automated helper app for Xiaomi Pad 5 (nabu) devices to deploy custom UEFI boot packages, WOA setup systems, and Magisk root configurations.
-* 🔄 **[internsync](https://github.com/b0urbonn/internsync)**: A specialized platform for university engineering students to log internship hours, catalog milestones, and sync daily reports.
-* 🎓 **[SIMS](https://github.com/b0urbonn/SIMS)**: A secure Student Information Management System handling student records, terms, and administrative directories.
-* ⛓️ **[certichain](https://github.com/b0urbonn/certichain)**: A cryptography-driven verification ledger built to authenticate academic certifications and prevent diploma forgery.
-* 🚩 **[cics-ctf](https://github.com/b0urbonn/cics-ctf)**: A custom cybersecurity training environment featuring Capture The Flag (CTF) challenges across cryptography, web hacking, and analysis.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>📚 <a href="https://github.com/b0urbonn/StudyTrack">StudyTrack</a></h3>
+      <img src="https://img.shields.io/badge/Status-🌟_Flagship-f7768e?style=flat-square" />
+      <p>A premium, local-first React Native planning ecosystem integrated with an on-device Gemini AI co-pilot, featuring conflict-detection schedulers, swipeable task managers, markdown notebooks, digital ID wallets, and custom Pomodoro timers.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⚙️ <a href="https://github.com/b0urbonn/won-deployer-setup-app">won-deployer-setup-app</a></h3>
+      <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
+      <p>An automated helper app for Xiaomi Pad 5 (nabu) devices to deploy custom UEFI boot packages, WOA setup systems, and Magisk root configurations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🔄 <a href="https://github.com/b0urbonn/internsync">internsync</a></h3>
+      <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
+      <p>A specialized platform for university engineering students to log internship hours, catalog milestones, and sync daily reports.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎓 <a href="https://github.com/b0urbonn/SIMS">SIMS</a></h3>
+      <img src="https://img.shields.io/badge/Status-🟡_Maintenance-e0af68?style=flat-square" />
+      <p>A secure Student Information Management System handling student records, terms, and administrative directories.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⛓️ <a href="https://github.com/b0urbonn/certichain">certichain</a></h3>
+      <img src="https://img.shields.io/badge/Status-🟢_Active-9ece6a?style=flat-square" />
+      <p>A cryptography-driven verification ledger built to authenticate academic certifications and prevent diploma forgery.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🚩 <a href="https://github.com/b0urbonn/cics-ctf">cics-ctf</a></h3>
+      <img src="https://img.shields.io/badge/Status-🟡_Maintenance-e0af68?style=flat-square" />
+      <p>A custom cybersecurity training environment featuring Capture The Flag (CTF) challenges across cryptography, web hacking, and analysis.</p>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
 ## 🌟 Technical Interests & Explorations
 
@@ -57,7 +125,9 @@ Beyond my original projects, I actively study and follow key open-source communi
 * 🤖 **Generative AI & Machine Learning:** Speech-activated AI co-pilots (`Agora-Voice-AI-Hackathon`), reinforcement learning models (`Reinforcement-Learning-101`, `MARL-Papers`), and ML-based synthetic data compilations (`synthetic-data-generator`).
 * 🔒 **Blockchain & Cybersecurity:** Solidity smart contracts (`learning-solidity`, `avalanche-smart-contract-quickstart`) and incident forensics telemetry frameworks (`sigil-dfir`).
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
 
 ## 📈 My GitHub Analytics
 
