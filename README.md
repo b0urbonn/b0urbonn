@@ -1,7 +1,7 @@
 # Hi there, I'm Dale (b0urbonn) 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=b0urbonn&subtitle=Full-Stack%20Mobile%20Developer%20%7C%20AI%20Solutions%20Builder%20%7C%20Systems%20Modder&fontSize=42&subFontSize=18&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=b0urbonn&subtitle=Mobile%20Developer%20%7C%20AI%20Solutions%20Builder%20%7C%20Systems%20Modder&fontSize=40&subFontSize=18&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -21,111 +21,42 @@
 
 ---
 
-## 🚀 About Me & Engineering Philosophy
+## 🚀 About Me
 
-I am a **Mobile & Systems Software Engineer** focusing on building premium full-stack applications, designing robust local-first architectures, and automating system installations. 
-
-My developer profile is divided between **original applications I have built from scratch** and an extensive range of **technical forks representing my active research and technical interests** across Windows on ARM, Machine Learning, Blockchain networks, and Cybersecurity.
-
-> [!NOTE]
-> **My Core Principles:**
-> - **Craftsmanship First**: Beautiful visuals, micro-animations, and clean layout patterns are essential, not optional.
-> - **Local-First & Secure**: User databases and sensitive keys belong securely on-device, leveraging direct API integration without intermediate servers.
-> - **Frictionless Interfaces**: Bridging generative AI context models with fast command-based parsers to eliminate heavy manual form entries.
+I am a **Mobile & Systems Software Engineer** specializing in full-stack applications, local-first system architectures, and system modding. I focus on merging premium user experience designs (smooth HSL themes, fluid layouts) with generative AI integration and automation scripts.
 
 ---
 
-## 🛠️ My Master Tech Stack
+## 🛠️ Tech Stack
 
-| Domain | Technologies & Systems |
-| :--- | :--- |
-| **Mobile & Frontend** | React Native, Expo, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS |
-| **State & On-Device Storage** | Zustand store modules, Encrypted `AsyncStorage` states, React Context |
-| **AI & Orchestration** | Google Gemini 2.5 Flash, on-device regex-based quick directive text parsers |
-| **Decentralized Validation** | Blockchain certificate authentication prototypes, local ledger validation |
-| **Workflow & Tooling** | Git, GitHub Actions, EAS Build CLI (Expo Application Services), Android SDK, Xcode compiler |
+- **Frontend & Mobile:** React Native, Expo, TypeScript, JavaScript (ES6+), Tailwind CSS
+- **State & Local Storage:** Zustand, Encrypted AsyncStorage, React Context
+- **AI & Language Models:** Google Gemini 2.5 Flash API, on-device regex-based quick command parsers
+- **Development & Deploy:** Git, GitHub Actions, EAS Build CLI, Android SDK, Xcode
 
 ---
 
-## 🛠️ Built By Me: Core Original Projects
+## 🛠️ Built By Me (Core Original Projects)
 
-These are the primary applications and systems I have designed, architected, and built from scratch:
+These are the primary applications and systems I have architected and built from scratch:
 
-### 📱 1. Mobile & Web Productivity Suites
-
-#### 📚 [StudyTrack](https://github.com/b0urbonn/StudyTrack) *(Flagship Mobile App)*
-> **The Premium AI-Powered Academic Co-Pilot & Student Tracker**
-> 
-> StudyTrack is a full-featured planning ecosystem built with **React Native**, **Expo**, **Zustand**, and **Google Gemini 2.5 Flash**. It serves as an all-in-one student workspace designed with fluid dark modes, micro-animations, and complete local privacy.
-* **Smart AI Adviser Settings**: Input a Gemini API Key to compile on-device course, schedule, and checklist logs on the fly, feeding them as context to a custom AI tutor.
-* **Fast Directive Command Logging**: Skip standard menus by typing simple regex-monitored commands (e.g. `/task Buy Chemistry Book priority high`, `/note Review biology lab session`, `/schedule Calculus Mon 9am - 10:30am`) to instantly trigger local confirmation cards.
-* **Modular Screen Features**:
-  - `PlannerScreen.tsx` - Hourly schedule blocks with overlap-detection.
-  - `TaskListScreen.tsx` - Tap-swipe actionable todo grids with dynamic priority tags.
-  - `DigitalIdScreen.tsx` - Scan-ready student ID wallet supporting local PDF/Certificate attachments.
-  - `FocusTimerScreen.tsx` - Pomodoro countdown timer with auto-advancing cycles.
-  - `CollegeMemoriesScreen.tsx` - Visual milestones scrapbooking.
-  - `StudentQuestScreen.tsx` - Gamification level-up systems rewarding tasks completion with XP.
-
-#### 🔄 [internsync](https://github.com/b0urbonn/internsync)
-* A specialized management program built to help students coordinate internship hours, log daily tasks, compile supervisor checklists, and track internship milestones.
-
-#### 🎓 [SIMS](https://github.com/b0urbonn/SIMS)
-* A centralized Student Information Management System handles student databases, course lists, term structures, and academic administration.
+* 📚 **[StudyTrack](https://github.com/b0urbonn/StudyTrack)** *(Private Flagship Mobile App)*: A premium, local-first React Native planning ecosystem integrated with an on-device Gemini AI co-pilot, featuring conflict-detection schedulers, swipeable task managers, markdown notebooks, digital ID wallets, and custom Pomodoro timers.
+* ⚙️ **[won-deployer-setup-app](https://github.com/b0urbonn/won-deployer-setup-app)** *(Public Modding Utility)*: An automated helper app for Xiaomi Pad 5 (nabu) devices to deploy custom UEFI boot packages, WOA setup systems, and Magisk root configurations.
+* 🔄 **[internsync](https://github.com/b0urbonn/internsync)**: A specialized platform for university engineering students to log internship hours, catalog milestones, and sync daily reports.
+* 🎓 **[SIMS](https://github.com/b0urbonn/SIMS)**: A secure Student Information Management System handling student records, terms, and administrative directories.
+* ⛓️ **[certichain](https://github.com/b0urbonn/certichain)**: A cryptography-driven verification ledger built to authenticate academic certifications and prevent diploma forgery.
+* 🚩 **[cics-ctf](https://github.com/b0urbonn/cics-ctf)**: A custom cybersecurity training environment featuring Capture The Flag (CTF) challenges across cryptography, web hacking, and analysis.
+* 🛡️ **[Capstone-MIT-SmartGuard](https://github.com/b0urbonn/Capstone-Project-MIT-SmartGuard-Prototype-1)**: An industrial capstone IoT telemetry system monitoring hardware statuses via real-time sensors.
 
 ---
 
-### 💻 2. Deployment Tools & Decentralized Architectures
+## 🌟 Technical Interests & Explorations
 
-#### ⚙️ [won-deployer-setup-app](https://github.com/b0urbonn/won-deployer-setup-app) *(Public Utility)*
-* An automated installation helper designed for Xiaomi Pad 5 (nabu) devices. It provides an intuitive interface to configure custom UEFI packages, download WOA helpers, and deploy Magisk root files.
+Beyond my original projects, I actively study and follow key open-source communities. My forks reflect my research and interests in these areas:
 
-#### ⛓️ [certichain](https://github.com/b0urbonn/certichain)
-* A cryptography-driven verification ledger built to authenticate academic certifications and course credentials, preventing credential forgery through secure on-device checksum hashing.
-
-#### 🚩 [cics-ctf](https://github.com/b0urbonn/cics-ctf)
-* A Capture The Flag (CTF) cybersecurity environment featuring custom puzzles designed to test web exploitation, security scripts, and binary analysis skills.
-
-#### 🛡️ [Capstone-Project-MIT-SmartGuard-Prototype-1](https://github.com/b0urbonn/Capstone-Project-MIT-SmartGuard-Prototype-1)
-* Industrial capstone monitoring system architected to deploy active telemetry sensors, reporting hardware statuses to a central dashboard.
-
-#### 🎨 [devdale2.0](https://github.com/b0urbonn/devdale2.0) / [devdale](https://github.com/b0urbonn/devdale)
-* Personal sandbox repositories built to experiment with micro-frontend architectures, advanced hooks state management, and portfolio visual aesthetics.
-
----
-
-## 🌟 Tech Explorations & Core Interests
-
-Beyond my original projects, I am an active investigator in open-source systems. My forks represent my research, studies, and personal interests in modern tech fields:
-
-```text
-                       [ My Tech Interests ]
-                                 │
-     ┌───────────────────────────┼───────────────────────────┐
-     ▼                           ▼                           ▼
-[ Low-Level Porting ]    [ AI & Machine Learning ]    [ Blockchain & CyberSec ]
-  - Xiaomi Pad 5 WOA       - Voice Agents (Agora)       - Smart Contracts (Solidity)
-  - Recovery Extractors    - Reinforcement Learning     - Incident Forensics (DFIR)
-  - Custom Linux Loaders   - Data Synthesizers          - Pentest Scripting
-```
-
-### 🔌 1. Low-Level Device Porting & Windows on ARM (WOA)
-I follow the Windows on ARM scene, researching how to flash custom OS environments onto mobile tablets:
-* **Pad Flashing Guides**: Flashing Windows 11 on Xiaomi Pad 5 (`Port-Windows-11-Xiaomi-Pad-5`, `modified-playbooks`).
-* **Standalone Installers**: Flashing Windows from mobile browsers (`nabu` Fastboot) or on-device loaders (`WinInstaller`).
-* **Boot Automation**: Extracting payloads to fastboot packages (`Auto-Installer-Forge`), downloading Windows ARM compilation ISO blocks (`woawin`), and loading Linux on mobile ARM devices (`Nabu_Linux_Installer`).
-
-### 🤖 2. Generative AI, Voice & Deep Reinforcement Learning
-Exploring how machines learn, speak, and generate data:
-* **Audio Agents**: Speech-activated AI co-pilots using Agora communication lines (`Agora-Voice-AI-Hackathon-Manila-2026`).
-* **LLM Terminal Integrations**: Integrating free claude terminal processes across Discord bots (`free-claude-code`).
-* **RL Architectures**: Hands-on Q-Learning, multi-agent systems, and metadata filters (`Reinforcement-Learning-101`, `MARL-Papers`).
-* **Data Synthesis & Vision**: Compiling mock datasets (`synthetic-data-generator`) and implementing computer vision face tracking (`opencv-facetracking`).
-
-### 🔒 3. Blockchain, smart Contracts & Incident Forensics
-Validating decetralized ledgers and exploring cybersecurity boundaries:
-* **Solidity Smart Contracts**: Testing Ethereum token structures and gas efficiency standards (`learning-solidity`, `avalanche-smart-contract-quickstart`).
-* **Incident Response & Defense**: Extracting telemetry forensics (`sigil-dfir`) and automating security scripts in Python (`python-pentest`).
+* 🔌 **Low-Level Porting & Windows on ARM:** Installing desktop environments (Windows 11, Linux) on mobile tablets like Xiaomi Pad 5. Includes browser-based Fastboot installers (`nabu`), playbooks (`modified-playbooks`), recovery ROM extractors (`Auto-Installer-Forge`), and ISO downloaders (`woawin`).
+* 🤖 **Generative AI & Machine Learning:** Speech-activated AI co-pilots (`Agora-Voice-AI-Hackathon`), reinforcement learning models (`Reinforcement-Learning-101`, `MARL-Papers`), and ML-based synthetic data compilations (`synthetic-data-generator`).
+* 🔒 **Blockchain & Cybersecurity:** Solidity smart contracts (`learning-solidity`, `avalanche-smart-contract-quickstart`) and incident forensics telemetry frameworks (`sigil-dfir`).
 
 ---
 
@@ -133,10 +64,10 @@ Validating decetralized ledgers and exploring cybersecurity boundaries:
 
 <p align="center">
   <a href="https://github.com/b0urbonn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b0urbonn&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=b0urbonn&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0urbonn&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0urbonn&layout=compact&theme=tokyonight&hide_border=true" height="170" />
   </a>
 </p>
 
