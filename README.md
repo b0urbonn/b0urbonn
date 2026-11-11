@@ -29,25 +29,38 @@
 
 ---
 
-### What I do
+## 👋 Hey, I'm b0urbonn
 
-- 🎓 **Teach** IT at the university level
-- 🤖 **Build** AI-powered mobile & web applications
-- 🏆 **Compete** in CTFs with [WarMachines.exe](https://github.com/b0urbonn)
+I teach IT at the university level, build AI-powered apps, and compete in CTFs. In that order of chaos.
 
-### Currently
-
-- 🛡️ Competing with **Pixel6** & **WarMachines.exe** in CTF events
-- 🧠 Exploring applied AI — LLM integrations, mobile AI features
-- 📚 Teaching full-time — building course materials and tooling
-
-### Beyond the screen
-
-CTFs, teaching, and building things that actually ship — usually all in the same week.
+> *"Professional by day, packet ninja by night, occasionally both before lunch."*
 
 ---
 
-### Stack
+## 📋 What I'm up to
+
+| 🎓 Day job | 🤖 Side quests | 🏆 Weekend plans |
+|---|---|---|
+| Teaching IT students | AI-powered mobile & web apps | CTF events with **Pixel6** & **WarMachines.exe** |
+| Course materials & tooling | Prototypes that may or may not ship | Writeups, labs, repeat |
+| Explaining things (a lot) | Code that works... eventually | Teaching students to break things (responsibly) |
+
+---
+
+### 🛠️ Currently
+
+- 🧠 Exploring applied AI — LLM integrations, mobile AI features
+- 📱 Android development
+- 🛡️ CTF grind — events, labs, and questionable life choices at 2 AM
+- 📚 Teaching full-time — yes, I still find time for all of this
+
+### 🎲 Beyond the screen
+
+CTFs, teaching, and building things that actually ship — usually all in the same week. My calendar is a group project and everyone is me.
+
+---
+
+## 🧰 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -62,7 +75,7 @@ CTFs, teaching, and building things that actually ship — usually all in the sa
 
 ---
 
-### Stats
+## 📊 Stats
 
 <p align="center">
   <a href="https://github.com/b0urbonn">
@@ -82,13 +95,17 @@ CTFs, teaching, and building things that actually ship — usually all in the sa
 
 ---
 
-### Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dale-ogbac-92a753241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/b0urbonn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://t.me/v3rmouth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>&nbsp;
   <a href="https://www.appbuildersph.com/makers/b0urbon"><img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>Warning: may respond to technical questions at 3 AM. No refunds.</sub>
 </p>
 
 <p align="center">
