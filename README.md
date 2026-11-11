@@ -24,6 +24,10 @@
   <img src="https://komarev.com/ghpvc/?username=b0urbonn&color=9ece6a&style=flat-square&label=Views&abbreviated=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=b0urbonn&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5&sideLabels=7aa2f7&dates=565f89" height="180" alt="GitHub streak" />
+</p>
+
 ---
 
 ### What I do
@@ -31,6 +35,17 @@
 - 🎓 **Teach** IT at the university level
 - 🤖 **Build** AI-powered mobile & web applications
 - 🏆 **Compete** in CTFs with [WarMachines.exe](https://github.com/b0urbonn)
+
+### Currently
+
+- 📱 Android development on a **Google Pixel 6**
+- 🧠 Exploring applied AI — LLM integrations, mobile AI features
+- 🛡️ Hitting CTF events and labs
+- 📚 Teaching full-time — building course materials and tooling
+
+### Beyond the screen
+
+CTFs, teaching, and building things that actually ship — usually all in the same week.
 
 ---
 
@@ -56,11 +71,15 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=b0urbonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e&text_color=c0caf5&ring_color=7aa2f7&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=b0urbonn&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5&sideLabels=7aa2f7&dates=565f89" />
+    <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=b0urbonn&theme=tokyo-night&hide_border=true&area=true&area_color=1a1b26&line=7aa2f7&point=f7768e&color=c0caf5" />
   </a>
   <a href="https://github.com/b0urbonn">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0urbonn&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=b0urbonn&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
