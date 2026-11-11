@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Competes-CTF_Events-f7768e?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Competes-CTF_%26_Hackathons-f7768e?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b26" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## 👋 Hey, I'm b0urbonn
 
-University IT educator by day. AI-powered app builder by night. CTF competitor whenever there's a flag to grab.
+University IT educator by day. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab.
 
 > *"I teach students how to build things — then I go build things so I have something new to teach them next semester."*
 
@@ -41,22 +41,22 @@ University IT educator by day. AI-powered app builder by night. CTF competitor w
 
 | 🎓 Teaching | 🤖 Building | 🏆 Competing |
 |---|---|---|
-| IT courses & course materials | AI-powered mobile & web apps | CTF events — **Pixel6** & **WarMachines.exe** |
-| Labs, writeups, explanations | Prototypes that ship (eventually) | 2 AM debugging sessions (unofficial sport) |
-| Turning "it doesn't work" into "it works" | Tools for teachers, students, and myself | Flags captured, lessons learned |
+| IT courses & course materials | Mobile & web apps — AI-powered, hackathon-grade | CTF events & hackathons — **Pixel6** & **WarMachines.exe** |
+| Labs, writeups, explanations | Prototypes that ship (eventually) | 48-hour builds, 2 AM debugging sessions (unofficial sport) |
+| Turning "it doesn't work" into "it works" | Tools for teachers, students, and myself | Flags captured, demos shipped, lessons learned |
 
 ---
 
 ### 🛠️ Currently
 
 - 🧠 **Applied AI** — LLM integrations, mobile AI features, what actually works in production
-- 📱 **Android development**
-- 🛡️ **CTF grind** — events, labs, and the occasional 2 AM breakthrough
+- 📱 **App development** — Android, React Native, web apps that ship
+- 🛡️ **CTF & hackathon grind** — events, labs, weekend builds, and the occasional 2 AM breakthrough
 - 📚 **Teaching full-time** — and somehow still finding time for all of this
 
 ### 🎲 Vibe check
 
-CTFs, teaching, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
+CTFs, hackathons, teaching, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
 
 ---
 
