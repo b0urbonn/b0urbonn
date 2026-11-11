@@ -3,14 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=Educator+%7C+Builder+%7C+Breaker;Teaching+IT+%F0%9F%8F%AB;Building+AI+tools+%F0%9F%A4%96;CTF+player+%F0%9F%94%A5" alt="Typing SVG" /></a>
+  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=460&lines=Educator+%7C+Builder+%7C+Breaker" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Educator_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
-  <a href="https://github.com/b0urbonn/asi-assisted-personal-intelligence"><img src="https://img.shields.io/badge/Building-ASI_--_Personal_Intelligence-9ece6a?style=flat-square&labelColor=1a1b26" /></a>
 </p>
 
 <p align="center">
@@ -21,38 +20,11 @@
 
 ---
 
-### ⭐ Featured Project
-
-<table>
-<tr>
-<td width="70%">
-
-**[ASI — Assisted Personal Intelligence](https://github.com/b0urbonn/asi-assisted-personal-intelligence)**
-
-A self-hosted AI companion for Mac, Windows, iOS & Android — one private brain on your own hardware. Remembers, anticipates, and quietly runs your day across every device.
-
-</td>
-<td width="30%" align="center">
-
-<a href="https://github.com/b0urbonn/asi-assisted-personal-intelligence">
-  <img src="https://img.shields.io/badge/Coming_Soon-orange?style=for-the-badge" />
-</a><br/><br/>
-<a href="https://github.com/b0urbonn/asi-assisted-personal-intelligence">
-  <img src="https://img.shields.io/badge/Docs-📖_Read_the_plan-8b5cf6?style=for-the-badge" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ### What I do
 
 - 🎓 **Teach** IT at the university level
 - 🤖 **Build** AI-powered mobile & web applications
 - 🏆 **Compete** in CTFs with [WarMachines.exe](https://github.com/b0urbonn)
-- 📚 **Document** everything — plans, PRDs, architectures (see ASI docs)
 
 ---
 
