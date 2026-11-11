@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=460&lines=Educator+%7C+Builder+%7C+Breaker" alt="Typing SVG" /></a>
+  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=460&lines=Founder+%7C+Builder+%7C+Breaker" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Educator_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Role-Founder_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
 </p>
 
@@ -38,19 +38,19 @@
 
 ## 👋 Hey, I'm Dale (b0urbonn)
 
-University IT educator by day. Software Engineer & Founder of **Pixel6** by ambition. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
+Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Also teaches IT on the side, because someone has to. Based in Marinduque, Philippines 🇵🇭
 
-> *"I teach students how to build things — then I go build things so I have something new to teach them next semester."*
+> *"I build things during the day, break things at night, and teach students how to do both — eventually."*
 
 ---
 
 ## 📋 The usual suspects
 
-| 🎓 Teaching | 🤖 Building | 🏆 Competing |
+| 🎓 Teaching (side gig) | 🤖 Building (main quest) | 🏆 Competing |
 |---|---|---|
-| IT courses & course materials | Mobile & web apps — AI-powered, hackathon-grade | CTF events & hackathons — **Pixel6** & **WarMachines.exe** |
-| Labs, writeups, explanations | Prototypes that ship (eventually) | 48-hour builds, 2 AM debugging sessions (unofficial sport) |
-| Turning "it doesn't work" into "it works" | Tools for teachers, students, and myself | Flags captured, demos shipped, lessons learned |
+| IT courses when schedule allows | Pixel6 projects — eGABAY, team apps | CTF events & hackathons — **Pixel6** & **WarMachines.exe** |
+| Occasional labs & writeups | AI-powered mobile & web apps | 48-hour builds, 2 AM debugging sessions (unofficial sport) |
+| Explaining things to students | Tools that actually ship | Flags captured, demos shipped, legends (maybe) |
 
 ---
 
@@ -59,7 +59,8 @@ University IT educator by day. Software Engineer & Founder of **Pixel6** by ambi
 - 🧠 **Applied AI** — LLM integrations, mobile AI features, what actually works in production
 - 📱 **App development** — Android, React Native, web apps that ship
 - 🛡️ **CTF & hackathon grind** — events, labs, weekend builds, and the occasional 2 AM breakthrough
-- 📚 **Teaching full-time** — and somehow still finding time for all of this
+- 🏗️ **Pixel6** — building the team, the projects, the future
+- 📚 Teaching IT on the side — because someone has to keep the lights on
 
 ### 🎲 Vibe check
 
