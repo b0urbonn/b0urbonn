@@ -45,25 +45,17 @@ I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixe
 - 🛡️ **CTF & hackathons** — events, labs, weekend builds
 - 🏗️ **Pixel6** — team, projects, and the future
 
-### 🎖️ Credentials
-
-DICT-Recognized Cybersecurity Professional · Vanguard Award · CSE Professional · 12 certifications (cybersecurity, AI, Google)
-
-📄 Published research: *Multi-class Classification of Cyber Attacks with NSL-KDD* (deep learning)
-
----
-
-### Stack
+### 📊 Stack across my repos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -72,15 +64,15 @@ DICT-Recognized Cybersecurity Professional · Vanguard Award · CSE Professional
 
 <p align="center">
   <a href="https://github.com/b0urbonn">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=b0urbonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e&text_color=c0caf5&ring_color=7aa2f7&include_all_commits=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats-one.vercel.app/api?username=b0urbonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=f7768e&text_color=c0caf5&ring_color=7aa2f7&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/b0urbonn">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0urbonn&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" />
+    <img height="170" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=b0urbonn&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&layout=compact" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=b0urbonn&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=b0urbonn&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5&sideLabels=7aa2f7&dates=565f89" alt="GitHub streak" />
 </p>
 
 ---
