@@ -9,12 +9,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Educator_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/b0urbonn/pixel6-site"><img src="https://img.shields.io/badge/Project-Pixel6_Startup-4285F4?style=flat-square&labelColor=1a1b26" /></a>
-  <img src="https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Competes-CTF_Events-f7768e?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b26" />
 </p>
 
@@ -38,9 +37,8 @@
 
 ### Currently
 
-- 📱 Building **Pixel6** — startup site & Android work (React + Vite)
+- 🛡️ Competing with **Pixel6** & **WarMachines.exe** in CTF events
 - 🧠 Exploring applied AI — LLM integrations, mobile AI features
-- 🛡️ Hitting CTF events and labs
 - 📚 Teaching full-time — building course materials and tooling
 
 ### Beyond the screen
