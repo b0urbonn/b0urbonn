@@ -11,7 +11,13 @@
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
   <a href="https://pixel6-site.vercel.app"><img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" /></a>
   <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Marinduque%2C_PH-7aa2f7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Credential-DICT--Recognized_Cybersecurity_Pro-9ece6a?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Award-Vanguard_Award-f7768e?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Certs-12-Earned-8b5cf6?style=flat-square&labelColor=1a1b26" />
 </p>
 
 <p align="center">
@@ -22,15 +28,28 @@
 
 ---
 
-Founder of **Pixel6**. Building AI-powered apps, competing in CTFs & hackathons. Marinduque, PH 🇵🇭
+### 👋 Hey, I'm Dale (b0urbonn)
+
+Software Engineer & Founder of **Pixel6** — a software development & innovation team from Marinduque, Philippines 🇵🇭
+
+I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixel6** and **WarMachines.exe**, and apparently have a type for late-night debugging sessions.
+
+> *"I ship code by day, break systems by night, and somehow both end up in production."*
 
 ---
 
 ### 🛠️ Currently
 
-- 🧠 Applied AI & app development
-- 🛡️ CTF & hackathon grind with **Pixel6** & **WarMachines.exe**
-- 🏗️ Pixel6 — team, projects, and the future
+- 🧠 **Applied AI** — LLM integrations, mobile AI features
+- 📱 **App development** — Android, React Native, web apps
+- 🛡️ **CTF & hackathons** — events, labs, weekend builds
+- 🏗️ **Pixel6** — team, projects, and the future
+
+### 🎖️ Credentials
+
+DICT-Recognized Cybersecurity Professional · Vanguard Award · CSE Professional · 12 certifications (cybersecurity, AI, Google)
+
+📄 Published research: *Multi-class Classification of Cyber Attacks with NSL-KDD* (deep learning)
 
 ---
 
@@ -41,7 +60,9 @@ Founder of **Pixel6**. Building AI-powered apps, competing in CTFs & hackathons.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -68,8 +89,14 @@ Founder of **Pixel6**. Building AI-powered apps, competing in CTFs & hackathons.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dale-ogbac-92a753241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/b0urbonn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://t.me/v3rmouth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>&nbsp;
+  <a href="https://www.appbuildersph.com/makers/b0urbon"><img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
   <a href="https://b0urbonn.github.io"><img src="https://img.shields.io/badge/Portfolio-b0urbonn.github.io-7aa2f7?style=flat-square&logo=githubpages&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>📬 Open to projects, collabs & hackathon teams.</sub>
 </p>
 
 <p align="center">
