@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Founder_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
-  <a href="https://pixel6-site.vercel.app"><img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" /></a>
+  <img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
 </p>
 
@@ -93,10 +93,10 @@ I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixe
 ### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dale-ogbac-92a753241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/b0urbonn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://t.me/v3rmouth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>&nbsp;
-  <a href="https://www.appbuildersph.com/makers/b0urbon"><img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
 <p align="center">
