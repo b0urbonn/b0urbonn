@@ -20,6 +20,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Marinduque%2C_PH-7aa2f7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Credential-DICT--Recognized_Cybersecurity_Pro-9ece6a?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Award-Vanguard_Award-f7768e?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Certs-12-Earned-8b5cf6?style=flat-square&labelColor=1a1b26" />
 </p>
 
 <p align="center">
@@ -34,9 +36,9 @@
 
 ---
 
-## 👋 Hey, I'm b0urbonn
+## 👋 Hey, I'm Dale (b0urbonn)
 
-University IT educator by day. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
+University IT educator by day. Software Engineer & Founder of **Pixel6** by ambition. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
 
 > *"I teach students how to build things — then I go build things so I have something new to teach them next semester."*
 
@@ -62,6 +64,18 @@ University IT educator by day. AI-powered app builder by night. CTF competitor a
 ### 🎲 Vibe check
 
 CTFs, hackathons, teaching, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
+
+### 🚀 Selected builds
+
+| Project | What it is |
+|---------|-----------|
+| **eGABAY** | AI-powered public transport navigation for Marinduque — I was Project Coach/PM for Team Pixel6 |
+| **Buddy** | Offline-first AI life companion — schedules, tasks, travel |
+| **Maalam** | On-device deepfake & harmful media detection (React Native, local models) |
+| **Unhooked** | Anti-doomscroll app — 10-second pause before impulse spending |
+| **eSIMS / AIMS** | Student info system & internship tracker PWA |
+
+*Full portfolio → [b0urbonn.github.io](https://b0urbonn.github.io)*
 
 ---
 
