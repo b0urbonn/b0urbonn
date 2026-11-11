@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4545&center=true&vCenter=true&random=false&width=820&lines=Founder%2C+developer%2C+educator+%26+cybersecurity+professional" width="100%" alt="Founder, developer, educator &amp; cybersecurity professional" /></a>
+<a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4545&center=true&vCenter=true&random=false&width=460&lines=Founder;Developer;Educator;Cybersecurity+Pro" width="100%" alt="Founder, developer, educator &amp; cybersecurity professional" /></a>
 </p>
 
 <p align="center">
