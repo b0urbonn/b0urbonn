@@ -38,9 +38,11 @@
 
 ## 👋 Hey, I'm Dale (b0urbonn)
 
-Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
+Software Engineer & Founder of **Pixel6** — a software development & innovation team from Marinduque 🇵🇭 that refuses to act like a normal company.
 
-> *"I build things during the day, break things at night, and occasionally sleep through both."*
+AI-powered app builder by trade. Professional button-masher by hobby. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab.
+
+> *"I ship code by day, break systems by night, and somehow both end up in production."*
 
 ---
 
@@ -56,14 +58,16 @@ Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competito
 
 ### 🛠️ Currently
 
-- 🧠 **Applied AI** — LLM integrations, mobile AI features, what actually works in production
+- 🧠 **Applied AI** — LLM integrations, mobile AI features, what actually works in production (and what's just hype)
 - 📱 **App development** — Android, React Native, web apps that ship
 - 🛡️ **CTF & hackathon grind** — events, labs, weekend builds, and the occasional 2 AM breakthrough
-- 🏗️ **Pixel6** — building the team, the projects, the future
+- 🏗️ **Pixel6** — building the team, the projects, the future (and the website, it's live)
 
 ### 🎲 Vibe check
 
 CTFs, hackathons, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
+
+Professional credentials (for the LinkedIn crowd): DICT-Recognized Cybersecurity Pro, Vanguard Award, CSE Professional, and 12 certifications I did not get by sleeping.
 
 ---
 
@@ -113,7 +117,7 @@ CTFs, hackathons, and shipping things — frequently in the same week. My calend
 </p>
 
 <p align="center">
-  <sub>📬 Open to interesting projects, collabs, and CTF teammates. Response time: eventually, but with enthusiasm.</sub>
+  <sub>📬 Open to interesting projects, collabs, hackathon teams, and CTF squads. Response time: whenever I finish this build.</sub>
 </p>
 
 <p align="center">
