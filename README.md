@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:450a0a,100:dc2626&height=200&section=header&text=b0urbonn&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="b0urbonn — Founder, Builder, Breaker" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,45:450a0a,100:dc2626&height=200&section=header&text=b0urbonn&fontSize=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="b0urbonn — Founder, developer, educator &amp; cybersecurity professional" />
 </p>
 
 <p align="center">
-<a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4545&center=true&vCenter=true&random=false&width=460&lines=Founder+%7C+Builder+%7C+Breaker" alt="Founder | Builder | Breaker" /></a>
+<a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF4545&center=true&vCenter=true&random=false&width=820&lines=Founder%2C+developer%2C+educator+%26+cybersecurity+professional" width="100%" alt="Founder, developer, educator &amp; cybersecurity professional" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Role-Founder_+_Builder-DC2626?style=plastic&labelColor=09090B" alt="Role-Founder + Builder" />
+<img src="https://img.shields.io/badge/Role-Founder_+_Developer_+_Educator-DC2626?style=plastic&labelColor=09090B" alt="Founder, developer and educator" />
 <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-DC2626?style=plastic&labelColor=09090B" alt="Focus-AI + Mobile + Web" />
 <img src="https://img.shields.io/badge/Team-Pixel6-DC2626?style=plastic&labelColor=09090B" alt="Team-Pixel6" />
 <img src="https://img.shields.io/badge/Team-WarMachines.exe-DC2626?style=plastic&labelColor=09090B" alt="Team-WarMachines.exe" />
@@ -34,7 +34,7 @@
 
 ### About me
 
-Hey, I'm **Dale (b0urbonn)** — Software Engineer & Founder of **Pixel6**. I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixel6** and **WarMachines.exe**, and apparently have a type for late-night debugging sessions.
+Hey, I'm **Dale (b0urbonn)** — a developer, educator, cybersecurity professional, and founder of **Pixel6**. I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixel6** and **WarMachines.exe**, and apparently have a type for late-night debugging sessions.
 
 > *"I ship code by day, break systems by night, and somehow both end up in production."*
 
