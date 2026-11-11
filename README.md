@@ -3,27 +3,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=460&lines=Founder+%7C+Builder+%7C+Breaker" alt="Typing SVG" /></a>
+  <a href="https://github.com/b0urbonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=black&center=true&vCenter=true&random=false&width=460&lines=Founder+%7C+Builder+%7C+Breaker" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Founder_+-_Builder-7aa2f7?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-f7768e?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Role-Founder_+-_Builder-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Focus-AI_%2B_Mobile_%2B_Web-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Team-Pixel6-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Team-WarMachines.exe-black?style=plastic&labelColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Marinduque%2C_PH-7aa2f7?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Credential-DICT--Recognized_Cybersecurity_Pro-9ece6a?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Award-Vanguard_Award-f7768e?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/Certs-12-Earned-8b5cf6?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Marinduque%2C_PH-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Credential-DICT--Recognized_Cybersecurity_Pro-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Award-Vanguard_Award-black?style=plastic&labelColor=black" />
+  <img src="https://img.shields.io/badge/Certs-12-Earned-black?style=plastic&labelColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/b0urbonn?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/stars/b0urbonn?label=Stars&style=flat-square&color=f7768e&labelColor=1a1b26" />
-  <img src="https://komarev.com/ghpvc/?username=b0urbonn&color=9ece6a&style=flat-square&label=Views&abbreviated=true" />
+  <img src="https://img.shields.io/github/followers/b0urbonn?label=Followers&style=plastic&color=black&labelColor=black" />
+  <img src="https://img.shields.io/github/stars/b0urbonn?label=Stars&style=plastic&color=black&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=b0urbonn&color=black&style=plastic&label=Views&abbreviated=true" />
 </p>
 
 ---
@@ -48,27 +48,27 @@ I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixe
 ### 📊 Stack across my repos
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-black?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-black?style=plastic&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-black?style=plastic&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-black?style=plastic&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-black?style=plastic&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-black?style=plastic&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-black?style=plastic&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-black?style=plastic&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=plastic&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-black?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=plastic&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=plastic&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-black?style=plastic&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-black?style=plastic&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-black?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-black?style=plastic&logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -93,10 +93,10 @@ I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixe
 ### Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Telegram-black?style=plastic&logo=telegram&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/App_Builders_PH-black?style=plastic&logo=googlechrome&logoColor=white" />
 </p>
 
 <p align="center">
