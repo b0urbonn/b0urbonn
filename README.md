@@ -38,19 +38,19 @@
 
 ## 👋 Hey, I'm Dale (b0urbonn)
 
-Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Also teaches IT on the side, because someone has to. Based in Marinduque, Philippines 🇵🇭
+Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
 
-> *"I build things during the day, break things at night, and teach students how to do both — eventually."*
+> *"I build things during the day, break things at night, and occasionally sleep through both."*
 
 ---
 
 ## 📋 The usual suspects
 
-| 🎓 Teaching (side gig) | 🤖 Building (main quest) | 🏆 Competing |
-|---|---|---|
-| IT courses when schedule allows | Pixel6 projects — eGABAY, team apps | CTF events & hackathons — **Pixel6** & **WarMachines.exe** |
-| Occasional labs & writeups | AI-powered mobile & web apps | 48-hour builds, 2 AM debugging sessions (unofficial sport) |
-| Explaining things to students | Tools that actually ship | Flags captured, demos shipped, legends (maybe) |
+| 🤖 Building | 🏆 Competing |
+|---|---|
+| Pixel6 projects — eGABAY, team apps | CTF events & hackathons — **Pixel6** & **WarMachines.exe** |
+| AI-powered mobile & web apps | 48-hour builds, 2 AM debugging sessions (unofficial sport) |
+| Tools that actually ship | Flags captured, demos shipped, legends (maybe) |
 
 ---
 
@@ -60,23 +60,10 @@ Software Engineer & Founder of **Pixel6**. AI-powered app builder. CTF competito
 - 📱 **App development** — Android, React Native, web apps that ship
 - 🛡️ **CTF & hackathon grind** — events, labs, weekend builds, and the occasional 2 AM breakthrough
 - 🏗️ **Pixel6** — building the team, the projects, the future
-- 📚 Teaching IT on the side — because someone has to keep the lights on
 
 ### 🎲 Vibe check
 
-CTFs, hackathons, teaching, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
-
-### 🚀 Selected builds
-
-| Project | What it is |
-|---------|-----------|
-| **eGABAY** | AI-powered public transport navigation for Marinduque — I was Project Coach/PM for Team Pixel6 |
-| **Buddy** | Offline-first AI life companion — schedules, tasks, travel |
-| **Maalam** | On-device deepfake & harmful media detection (React Native, local models) |
-| **Unhooked** | Anti-doomscroll app — 10-second pause before impulse spending |
-| **eSIMS / AIMS** | Student info system & internship tracker PWA |
-
-*Full portfolio → [b0urbonn.github.io](https://b0urbonn.github.io)*
+CTFs, hackathons, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
 
 ---
 
