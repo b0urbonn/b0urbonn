@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Device-Google_Pixel_6-4285F4?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/OS-Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Competes-CTF_Events-f7768e?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b26" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/b0urbonn?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" />
   <img src="https://img.shields.io/github/stars/b0urbonn?label=Stars&style=flat-square&color=f7768e&labelColor=1a1b26" />
   <img src="https://komarev.com/ghpvc/?username=b0urbonn&color=9ece6a&style=flat-square&label=Views&abbreviated=true" />
