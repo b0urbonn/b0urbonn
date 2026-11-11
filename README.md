@@ -12,9 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" />
+  <a href="https://pixel6-site.vercel.app"><img src="https://img.shields.io/badge/Team-Pixel6-4285F4?style=flat-square&labelColor=1a1b26" /></a>
   <img src="https://img.shields.io/badge/Team-WarMachines.exe-bb9af7?style=flat-square&labelColor=1a1b26" />
   <img src="https://img.shields.io/badge/Competes-CTF_%26_Hackathons-f7768e?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a1b26" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Marinduque%2C_PH-7aa2f7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/Credential-DICT--Recognized_Cybersecurity_Pro-9ece6a?style=flat-square&labelColor=1a1b26" />
 </p>
 
 <p align="center">
@@ -31,7 +36,7 @@
 
 ## 👋 Hey, I'm b0urbonn
 
-University IT educator by day. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab.
+University IT educator by day. AI-powered app builder by night. CTF competitor and hackathon menace whenever there's a flag or a deadline to grab. Based in Marinduque, Philippines 🇵🇭
 
 > *"I teach students how to build things — then I go build things so I have something new to teach them next semester."*
 
@@ -101,7 +106,8 @@ CTFs, hackathons, teaching, and shipping things — frequently in the same week.
   <a href="https://www.linkedin.com/in/dale-ogbac-92a753241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/b0urbonn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://t.me/v3rmouth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>&nbsp;
-  <a href="https://www.appbuildersph.com/makers/b0urbon"><img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.appbuildersph.com/makers/b0urbon"><img src="https://img.shields.io/badge/App_Builders_PH-f7768e?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://b0urbonn.github.io"><img src="https://img.shields.io/badge/Portfolio-b0urbonn.github.io-7aa2f7?style=flat-square&logo=githubpages&logoColor=white" /></a>
 </p>
 
 <p align="center">
