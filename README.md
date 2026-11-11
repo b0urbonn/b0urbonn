@@ -31,32 +31,32 @@
 
 ## 👋 Hey, I'm b0urbonn
 
-I teach IT at the university level, build AI-powered apps, and compete in CTFs. In that order of chaos.
+University IT educator by day. AI-powered app builder by night. CTF competitor whenever there's a flag to grab.
 
-> *"Professional by day, packet ninja by night, occasionally both before lunch."*
+> *"I teach students how to build things — then I go build things so I have something new to teach them next semester."*
 
 ---
 
-## 📋 What I'm up to
+## 📋 The usual suspects
 
-| 🎓 Day job | 🤖 Side quests | 🏆 Weekend plans |
+| 🎓 Teaching | 🤖 Building | 🏆 Competing |
 |---|---|---|
-| Teaching IT students | AI-powered mobile & web apps | CTF events with **Pixel6** & **WarMachines.exe** |
-| Course materials & tooling | Prototypes that may or may not ship | Writeups, labs, repeat |
-| Explaining things (a lot) | Code that works... eventually | Teaching students to break things (responsibly) |
+| IT courses & course materials | AI-powered mobile & web apps | CTF events — **Pixel6** & **WarMachines.exe** |
+| Labs, writeups, explanations | Prototypes that ship (eventually) | 2 AM debugging sessions (unofficial sport) |
+| Turning "it doesn't work" into "it works" | Tools for teachers, students, and myself | Flags captured, lessons learned |
 
 ---
 
 ### 🛠️ Currently
 
-- 🧠 Exploring applied AI — LLM integrations, mobile AI features
-- 📱 Android development
-- 🛡️ CTF grind — events, labs, and questionable life choices at 2 AM
-- 📚 Teaching full-time — yes, I still find time for all of this
+- 🧠 **Applied AI** — LLM integrations, mobile AI features, what actually works in production
+- 📱 **Android development**
+- 🛡️ **CTF grind** — events, labs, and the occasional 2 AM breakthrough
+- 📚 **Teaching full-time** — and somehow still finding time for all of this
 
-### 🎲 Beyond the screen
+### 🎲 Vibe check
 
-CTFs, teaching, and building things that actually ship — usually all in the same week. My calendar is a group project and everyone is me.
+CTFs, teaching, and shipping things — frequently in the same week. My calendar is a group project and every member is me.
 
 ---
 
@@ -105,7 +105,7 @@ CTFs, teaching, and building things that actually ship — usually all in the sa
 </p>
 
 <p align="center">
-  <sub>Warning: may respond to technical questions at 3 AM. No refunds.</sub>
+  <sub>📬 Open to interesting projects, collabs, and CTF teammates. Response time: eventually, but with enthusiasm.</sub>
 </p>
 
 <p align="center">
