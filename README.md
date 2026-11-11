@@ -30,7 +30,7 @@
 
 ### 👋 Hey, I'm Dale (b0urbonn)
 
-Software Engineer & Founder of **Pixel6** — a software development & innovation team from Marinduque, Philippines 🇵🇭
+Software Engineer & Founder of **Pixel6** 🇵🇭
 
 I build AI-powered mobile & web apps, compete in CTFs and hackathons with **Pixel6** and **WarMachines.exe**, and apparently have a type for late-night debugging sessions.
 
