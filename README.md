@@ -114,6 +114,16 @@ Hey, I'm **Dale (b0urbonn)** — a developer, educator, cybersecurity profession
 
 ---
 
+### Activity
+
+<p align="center">
+<img src="assets/contributions-2023.svg" alt="2023 — hello world" /><br>
+<img src="assets/contributions-2024.svg" alt="2024 — im dale" /><br>
+<img src="assets/contributions-2025.svg" alt="2025 — started here" />
+</p>
+
+---
+
 ### Stats
 
 <p align="center">
